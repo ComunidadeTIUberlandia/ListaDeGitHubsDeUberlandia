@@ -1,5 +1,5 @@
 # 📋 Lista com os principais GitHubs da Cidade e do Brasil 🚀
-Lista dos principais gits da cidade e do brasil.
+Lista dos principais githubs da cidade e do brasil.
 
 # Comunidades de TI de Uberlândia 
 
