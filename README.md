@@ -1,7 +1,7 @@
 # 📋 Lista com os principais GitHubs da Cidade e do Brasil 🚀
 Lista dos principais gits da cidade e do brasil.
 
-# Comunidades de TI de Uberlândia 🚀
+# Comunidades de TI de Uberlândia 
 
 UAIJUG: https://github.com/uaijug
 
