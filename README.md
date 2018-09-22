@@ -1,5 +1,5 @@
 #ListaDeGitHub's
-A Comunidade TI Uberlândia lista dos principais gits da cidade e do brasil.
+Lista dos principais gits da cidade e do brasil.
 
 COMUNIDADES DE TI/UBERLÂNDIA
 
