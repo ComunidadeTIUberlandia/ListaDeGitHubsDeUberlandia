@@ -15,7 +15,7 @@ FACEBOOK DEV CIRCLES: https://github.com/DevCUberlandia
 
 ............................................................................................................................................
 
-PROFISSIONAIS DE TI/UBERLÂNDIA
+# PROFISSIONAIS DE TI/UBERLÂNDIA
 
 ROGÉRIO FONTES: https://github.com/rogeriofontes
 
@@ -29,7 +29,7 @@ FREDERICO FERREIRA: https://github.com/FredericoSFerreira
 
 ............................................................................................................................................
 
-EMPRESAS DE TI/UBERLÂNDIA
+# EMPRESAS DE TI/UBERLÂNDIA
 
 SANKHYA: https://github.com/SankhyaTecnologia
 
@@ -53,7 +53,7 @@ UFU: https://github.com/comppet
 
 ............................................................................................................................................
 
-COMUNIDADES DE TI DO BRASIL
+# COMUNIDADES DE TI DO BRASIL
 
 BRASIL JS: https://github.com/braziljs
 
@@ -79,7 +79,7 @@ MINASDEV: https://github.com/minasdev
 
 ............................................................................................................................................
 
-EMPRESAS DE TI
+# EMPRESAS DE TI
 
 MICROSOFT: https://github.com/Microsoft
 
@@ -101,7 +101,7 @@ DROPBOX: https://github.com/dropbox
 
 ............................................................................................................................................
 
-PROFISSIONAIS DE TI
+# PROFISSIONAIS DE TI
 
 LINUS TORVALDS: https://github.com/torvalds/linux
 
@@ -117,7 +117,7 @@ FÁBIO HARA: https://github.com/fabioharams
 
 ............................................................................................................................................
 
-GERAL: 
+# GERAL: 
 https://github.com/topics
 
 
