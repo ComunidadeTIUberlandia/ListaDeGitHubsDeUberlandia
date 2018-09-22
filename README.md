@@ -1,5 +1,5 @@
-# 😍 ListaDeGitHub's 🚀
-Lista dos principais gits da cidade e do brasil. 🚀
+# 📋 Lista com os principais GitHubs da Cidade e do Brasil 🚀
+Lista dos principais gits da cidade e do brasil.
 
 # COMUNIDADES DE TI/UBERLÂNDIA 🚀
 
