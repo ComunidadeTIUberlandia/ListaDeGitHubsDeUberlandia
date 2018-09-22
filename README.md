@@ -1,7 +1,7 @@
-#ListaDeGitHub's
-Lista dos principais gits da cidade e do brasil.
+#ListaDeGitHub's 🚀
+Lista dos principais gits da cidade e do brasil. 🚀
 
-COMUNIDADES DE TI/UBERLÂNDIA
+COMUNIDADES DE TI/UBERLÂNDIA 🚀
 
 UAIJUG: https://github.com/uaijug
 
