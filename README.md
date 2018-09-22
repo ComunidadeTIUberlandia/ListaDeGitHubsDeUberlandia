@@ -1,7 +1,7 @@
 # 📋 Lista com os principais GitHubs da Cidade e do Brasil 🚀
 Lista dos principais gits da cidade e do brasil.
 
-# COMUNIDADES DE TI/UBERLÂNDIA 🚀
+# Comunidades de TI de Uberlândia 🚀
 
 UAIJUG: https://github.com/uaijug
 
@@ -15,7 +15,7 @@ FACEBOOK DEV CIRCLES: https://github.com/DevCUberlandia
 
 ............................................................................................................................................
 
-# PROFISSIONAIS DE TI/UBERLÂNDIA
+# Profissionais de TI de Uberlândia
 
 ROGÉRIO FONTES: https://github.com/rogeriofontes
 
@@ -29,7 +29,7 @@ FREDERICO FERREIRA: https://github.com/FredericoSFerreira
 
 ............................................................................................................................................
 
-# EMPRESAS DE TI/UBERLÂNDIA
+# Empresas de TI de Uberlândia
 
 SANKHYA: https://github.com/SankhyaTecnologia
 
@@ -53,7 +53,7 @@ UFU: https://github.com/comppet
 
 ............................................................................................................................................
 
-# COMUNIDADES DE TI DO BRASIL
+# Comunidades de TI do Brasil
 
 BRASIL JS: https://github.com/braziljs
 
@@ -79,7 +79,7 @@ MINASDEV: https://github.com/minasdev
 
 ............................................................................................................................................
 
-# EMPRESAS DE TI
+# Principais GitHubs do Mundo
 
 MICROSOFT: https://github.com/Microsoft
 
@@ -99,11 +99,13 @@ MIT: https://github.com/mitmedialab
 
 DROPBOX: https://github.com/dropbox
 
-............................................................................................................................................
-
-# PROFISSIONAIS DE TI
+APPLE: https://github.com/apple
 
 LINUS TORVALDS: https://github.com/torvalds/linux
+
+............................................................................................................................................
+
+# Profissionais de TI Brasileiros
 
 ZENO ROCHA: https://github.com/zenorocha
 
@@ -117,7 +119,7 @@ FÁBIO HARA: https://github.com/fabioharams
 
 ............................................................................................................................................
 
-# GERAL: 
+# Topics Geral
 https://github.com/topics
 
 
