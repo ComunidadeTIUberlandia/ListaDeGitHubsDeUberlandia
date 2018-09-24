@@ -81,6 +81,8 @@ MINASDEV: https://github.com/minasdev
 
 # Principais GitHubs do Mundo
 
+IBM WATSON: https://github.com/watson-developer-cloud
+
 MICROSOFT: https://github.com/Microsoft
 
 ORACLE: https://github.com/oracle
@@ -92,6 +94,8 @@ NASA: https://github.com/nasa
 FACEBOOK: https://github.com/facebook
 
 GOOGLE: https://github.com/google
+
+GOOGLE SAMPLES: https://github.com/googlesamples
 
 TESLA: https://github.com/teslamotors
 
@@ -112,6 +116,8 @@ FAKE WHARTON: https://github.com/jakewharton
 ZENO ROCHA: https://github.com/zenorocha
 
 JOÃO NETO: https://github.com/joaodotneto
+
+JOÃO JUNIOR: https://github.com//testejoaojunior
 
 HUGO HUMBERTO: https://github.com/hugumberto
 
