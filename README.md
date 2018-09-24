@@ -17,6 +17,8 @@ FACEBOOK DEV CIRCLES: https://github.com/DevCUberlandia
 
 # Profissionais de TI de Uberlândia
 
+ABNER CARLETO: https://github.com/abnercarleto
+
 DIOGO ALVES: https://github.com/diogoab
 
 ROGÉRIO FONTES: https://github.com/rogeriofontes
