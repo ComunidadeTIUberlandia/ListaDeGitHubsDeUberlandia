@@ -17,9 +17,17 @@ FACEBOOK DEV CIRCLES: https://github.com/DevCUberlandia
 
 # Profissionais de TI de Uberlândia
 
+DIOGO ALVES: https://github.com/diogoab
+
 ROGÉRIO FONTES: https://github.com/rogeriofontes
 
 JOSENALDO: https://github.com/josenaldo
+
+JOÃO NETO: https://github.com/joaodotneto
+
+JOÃO JUNIOR: https://github.com//testejoaojunior
+
+HUGO HUMBERTO: https://github.com/hugumberto
 
 AUGUSTO AFONSO BORGES BRANQUINHO: https://github.com/bbranquinho
 
@@ -114,12 +122,6 @@ FAKE WHARTON: https://github.com/jakewharton
 # Profissionais de TI Brasileiros
 
 ZENO ROCHA: https://github.com/zenorocha
-
-JOÃO NETO: https://github.com/joaodotneto
-
-JOÃO JUNIOR: https://github.com//testejoaojunior
-
-HUGO HUMBERTO: https://github.com/hugumberto
 
 BERNARDO AUGUSTO: https://github.com/BernardoGO
 
