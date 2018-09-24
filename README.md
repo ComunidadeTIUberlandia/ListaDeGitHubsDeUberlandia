@@ -103,11 +103,17 @@ APPLE: https://github.com/apple
 
 LINUS TORVALDS: https://github.com/torvalds/linux
 
+FAKE WHARTON: https://github.com/jakewharton
+
 ............................................................................................................................................
 
 # Profissionais de TI Brasileiros
 
 ZENO ROCHA: https://github.com/zenorocha
+
+JOÃO NETO: https://github.com/joaodotneto
+
+HUGO HUMBERTO: https://github.com/hugumberto
 
 BERNARDO AUGUSTO: https://github.com/BernardoGO
 
